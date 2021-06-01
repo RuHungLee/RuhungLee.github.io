@@ -2,6 +2,6 @@
 
 #### TOPIC
 
-[CTF Writeup](RuhungLee.github.io/ctf/index.md)
+[CTF Writeup](/ctf/)
 
-[Malware Sample analyze](RuhungLee.github.io/malware/index.md)
+[Malware Sample analyze](/malware/)
