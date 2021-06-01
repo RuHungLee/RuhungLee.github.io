@@ -42,7 +42,8 @@ p.interactive()
 
 ![](https://i.imgur.com/Hpxabg4.png)
 
-```python
+```python=
+
 from pwn import *
 p = remote('quiz.ais3.org' , 10103)
 #p = process('./ais3shell')
