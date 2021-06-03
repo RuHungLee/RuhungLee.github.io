@@ -7,3 +7,5 @@
 [CTF Writeup](/ctf/)
 
 [Malware Sample analyze](/malware/)
+
+[Others](/misc/)
